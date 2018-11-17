@@ -1,0 +1,8 @@
+Urformen:Bearbeitungsart:Durchsatz:Energiekonsum
+Umformen:Attribut 1:Attribut 2:Attribut 3
+Trennen:Attribut 1:Attribut 2:Attribut 3
+Stoffeigenschaften ändern:Attribut 1:Attribut 2:Attribut 3
+Fügen:Attribut 1:Attribut 2
+Beschichten:Attribut 1:Attribut 2:Attribut 3
+Qualität:Attribut 1:Attribut 2:Attribut 3
+Systemschnittstelle:Attribut 1:Attribut 2:Attribut 3:Attribut 4 
