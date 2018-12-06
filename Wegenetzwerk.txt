@@ -1,0 +1,10 @@
+Wegenetzwerk:
+Bearbeitungsmaschine:Attribut1
+Transportmittel:Attribut1
+Bereichsinterner Weg:Attribut1
+Haupttransportweg:Attribut1
+Quelle:Attribut1
+Senke:Attribut1
+Prüfplatz:Attribut1
+Lager:Attribut1
+Bereich:Attribut1
